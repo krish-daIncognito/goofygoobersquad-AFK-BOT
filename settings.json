@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "IkeepThisServerOnlieBTW",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "goofygoobersquad.aternos.me",
     "port": 39808,
-    "version": "26.1.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
